@@ -1,6 +1,11 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+@font-face {
+  font-family: Baskerville;
+  src: fonts/Baskerville.ttc;
+
+}
 
 header a{
   color: rgb(152,173,166);
@@ -16,7 +21,7 @@ footer .small {
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -27,4 +32,3 @@ body {
 }
 
 /* Write all remaining styles here */
-

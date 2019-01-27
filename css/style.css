@@ -33,6 +33,6 @@ body {
 
 /* Write all remaining styles here */
 
-#about h2 {
+#about h2, #press h2 {
   color: rgb(114,126,122);
 }

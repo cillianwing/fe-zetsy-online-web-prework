@@ -23,14 +23,16 @@ body {
 
 /* Write all remaining styles here */
 
-#about h2, #press h2 {
-  color: rgb(114,126,122);
-}
-
 header a{
   color: rgb(152,173,166);
   text-decoration: none;
 }
+
+#about h2, #press h2 {
+  color: rgb(114,126,122);
+}
+
+
 
 footer .small {
   /*font: 10px 'Times New Roman', serif;*/

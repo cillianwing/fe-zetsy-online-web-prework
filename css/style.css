@@ -29,6 +29,10 @@ header a{
   font: bold 2.5em 'Baskerville', serif;
 }
 
+header a:hover {
+  color: rgb(114, 126, 122);
+}
+
 #about h2, #press h2 {
   color: rgb(114,126,122);
   font-size: 2em;

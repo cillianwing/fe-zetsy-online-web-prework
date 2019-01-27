@@ -2,6 +2,15 @@
 
 /* link the web font used for the level 1 heading here */
 
+header a{
+  color: rgb(152,173,166);
+  text-decoration: none;
+}
+
+footer .small {
+  font: 10px 'Times New Roman', serif;
+}
+
 /*////////// Global Styles //////////*/
 
 body {
@@ -18,3 +27,4 @@ body {
 }
 
 /* Write all remaining styles here */
+

@@ -26,6 +26,7 @@ body {
 header a{
   color: rgb(152,173,166);
   text-decoration: none;
+  font: 30px 'Baskerville', serif;
 }
 
 #about h2, #press h2 {

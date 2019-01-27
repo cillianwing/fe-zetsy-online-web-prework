@@ -14,7 +14,7 @@ header a{
 footer .small {
   position: relative;
   font: 10px 'Times New Roman', serif;
-  right: 0
+  right: 150px;
 }
 
 /*////////// Global Styles //////////*/

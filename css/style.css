@@ -26,7 +26,6 @@ body {
 header a{
   color: rgb(152,173,166);
   text-decoration: none;
-  font: bold 2.5em 'Baskerville', serif;
 }
 
 header a:hover {

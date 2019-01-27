@@ -6,15 +6,7 @@
   src: fonts/Baskerville.ttc;
 }
 
-header a{
-  color: rgb(152,173,166);
-  text-decoration: none;
-}
 
-footer .small {
-  /*font: 10px 'Times New Roman', serif;*/
-  font-size: 10px;
-}
 
 /*////////// Global Styles //////////*/
 
@@ -35,4 +27,14 @@ body {
 
 #about h2, #press h2 {
   color: rgb(114,126,122);
+}
+
+header a{
+  color: rgb(152,173,166);
+  text-decoration: none;
+}
+
+footer .small {
+  /*font: 10px 'Times New Roman', serif;*/
+  font-size: 10px;
 }

@@ -12,7 +12,8 @@ header a{
 }
 
 footer .small {
-  font: 10px 'Times New Roman', serif;
+  /*font: 10px 'Times New Roman', serif;*/
+  font-size: 20px;
 }
 
 /*////////// Global Styles //////////*/

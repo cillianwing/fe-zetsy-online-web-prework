@@ -6,7 +6,7 @@
   src: fonts/Baskerville.ttc;
 }
 
-header a{
+header {
   color: rgb(152,173,166);
   text-decoration: none;
   font: 26px;

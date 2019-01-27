@@ -46,4 +46,5 @@ footer .small {
 
 #press img {
   border: 5px solid rgb(204,204,204);
+  cursor: pointer;
 }

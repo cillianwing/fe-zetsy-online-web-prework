@@ -70,3 +70,7 @@ footer .small {
   color: rgb(83,130,182);
   text-decoration: none;
 }
+
+#about a:hover {
+  text-decoration: underline;
+}

@@ -48,3 +48,7 @@ footer .small {
   border: 5px solid rgb(204,204,204);
   cursor: pointer;
 }
+
+#press img:hover {
+  border: 5px solid rgb(114, 126, 122);
+}

@@ -64,3 +64,7 @@ footer .small {
 #press img:hover {
   border: 5px solid rgb(114, 126, 122);
 }
+
+#about #a:visited {
+  color: blue;
+}

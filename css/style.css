@@ -37,6 +37,7 @@ header a{
 footer .small {
   /*font: 10px 'Times New Roman', serif;*/
   font-size: 10px;
+  text-align: right;
 }
 
 #necklace img {
